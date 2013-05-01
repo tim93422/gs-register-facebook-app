@@ -14,18 +14,22 @@ To go from Facebook user to Facebook developer, you'll need to go to http://deve
 
 Facebook will then walk you through a series of dialogs:
 
-1. Accept the terms: You must accept the terms of Facebook's Platform Policy and Facebook's Privacy Policy. 
-  ![](images/fb-terms-agree.png)
+__1.__ Accept the terms: You must accept the terms of Facebook's Platform Policy and Facebook's Privacy Policy.    
 
-2. Verify your account: You must provide a mobile number through which Facebook will verify that you're not using automated means of setting up multiple developer accounts. Facebook will text you a verification code that you must enter to proceed with registration. 
-  ![](images/fb-verify1.png)
-  ![](images/fb-verify2.png)
+![](images/fb-terms-agree.png)
 
-3. Tell us about you: Facebook wants to know a little bit about you as a Facebook application developer.
-  ![](images/fb-about-you.png)
+__2.__ Verify your account: You must provide a mobile number through which Facebook will verify that you're not using automated means of setting up multiple developer accounts. Facebook will text you a verification code that you must enter to proceed with registration. 
 
-4. Congralations! You're now a Facebook developer.
-  ![](images/fb-congrats.png)
+![](images/fb-verify1.png)
+![](images/fb-verify2.png)
+
+__3.__ Tell us about you: Facebook wants to know a little bit about you as a Facebook application developer.
+
+![](images/fb-about-you.png)
+
+__4.__ Congralations! You're now a Facebook developer.
+
+![](images/fb-congrats.png)
 
  
 After you've gone through the process to register as a Facebook developer, you're ready to register a new application.
