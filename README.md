@@ -1,4 +1,4 @@
-Getting Started Registering an Application with Facebook
+Getting Started: Registering an Application with Facebook
 ========================================================
 This Getting Started guide will walk you through the steps of registering an application to integrate with Facebook.
 
@@ -27,6 +27,8 @@ __3.__ Tell us about you: Facebook wants to know a little bit about you as a Fac
 
 ![](images/fb-about-you.png)
 
+> **Note:** You might get prompted with the option to receive more text messages. You don't have to turn this on to register a Facebook app. Simply click **Continue** to move on to the next step.
+
 __4.__ Congralations! You're now a Facebook developer.
 
 ![](images/fb-congrats.png)
@@ -44,7 +46,7 @@ No problem. Click the ![](images/fb-create-new-app-button.png) button near the t
 
 You can name your application almost anything you want. But Facebook does apply a few rules to the name. For example, your application can't be named anything with the words "Face" or "Book" in them.
 
-You'll also be asked to supply an App Namespace. The App Namespace is used for defining custom Open Graph actions as well as for the application's Facebook URL (e.g., "http://apps.facebook.com/{App Namespace}"). It's important that the App Namespace be longer than 7 characters, contain no capital letters, and be unique among all applications at Facebook.
+You'll also be asked to supply an App Namespace. The App Namespace is used for defining custom Open Graph actions as well as for the application's Facebook URL (e.g., "http://apps.facebook.com/{App_Namespace}"). It's important that the App Namespace be longer than 7 characters, contain no capital letters, and be unique among all applications at Facebook.
 
 You'll also have the option of having Facebook automatically arrange hosting for your application at Heroku.
 
@@ -78,7 +80,7 @@ $ gradlew run
 
 You'll be prompted by two dialogs. The first will ask for the application's App ID and the second will ask for the application's App Secret. You can copy-n-paste those from the Facebook Developer's site.
 
-After supplying the App ID and App Secret, the application will query Facebook's Graph API for a few details about the application. You should see something similar to this:
+After supplying the App ID and App Secret, the application will query Facebook's Graph API for a few details about the application. You should see something similar to this on the console from where you launched the app:
 
 ```
    APPLICATION DETAILS
@@ -93,14 +95,9 @@ Website URL:    null
 Of course, the exact data will vary based upon the answers given to Facebook when registering your application. The Website URL will be null unless you configure your application as a "Website with Facbeook Login".
 
 
-Next Steps
-----------
+Summary
+-------
 Congratulations! You have now registered an application with Facebook.
 
-This is merely the first step in developing an application that is integrated into its users' social graph. For more information on what your Facebook-enabled application can do, we recommend that you have a look at the following Getting Started guides:
-
-* Obtaining user authorization from Facebook
-* Authenticating a user with Facebook
-* Retrieving user data from Facebook
-* Registering a Twitter application
+This is merely the first step in developing an application that is integrated into its users' social graph.
 
