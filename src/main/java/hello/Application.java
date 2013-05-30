@@ -1,4 +1,4 @@
-package fbclient;
+package hello;
 
 import javax.swing.JOptionPane;
 
