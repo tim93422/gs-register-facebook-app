@@ -75,7 +75,7 @@ $ git clone https://github.com/springframework-meta/gs-register-facebook-app.git
 To run the utility, simply run it from the command line like this:
 
 ```sh
-$ gradlew run
+$ mvn package && java -jar target/gs-register-facebook-app-0.1.0.jar
 ```
 
 You'll be prompted by two dialogs. The first will ask for the application's App ID and the second will ask for the application's App Secret. You can copy-n-paste those from the Facebook Developer's site.
