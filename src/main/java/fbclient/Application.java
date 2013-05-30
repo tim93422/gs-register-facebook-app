@@ -8,7 +8,7 @@ import org.springframework.social.facebook.api.impl.FacebookTemplate;
 import org.springframework.social.facebook.connect.FacebookConnectionFactory;
 import org.springframework.social.oauth2.OAuth2Operations;
 
-public class Main {
+public class Application {
 
     public static void main(String[] args) {
         String appId = promptForInput("Enter your App ID:");
@@ -24,7 +24,6 @@ public class Main {
         System.out.println("Website URL:    " + appDetails.getWebsiteUrl());
     }
 
-    @SuppressWarnings("unchecked")
     private static AppDetails fetchApplicationData(String appId, String appToken) {
         Facebook facebook = new FacebookTemplate(appToken);
         return facebook.restOperations().getForObject("https://graph.facebook.com/{appId}?fields=name,namespace,contact_email,website_url", AppDetails.class, appId);

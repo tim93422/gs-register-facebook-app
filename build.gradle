@@ -3,7 +3,7 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin:'application'
 
-mainClassName = "fbclient.Main"
+mainClassName = "fbclient.Application"
 
 repositories { 
 	mavenCentral()
