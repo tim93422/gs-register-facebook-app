@@ -46,7 +46,7 @@ Click the ![](images/fb-create-new-app-button.png) button near the top. A dialog
 
 You can name your application almost anything, although Facebook does apply a few rules. For example, the name can't contain the words "Face" or "Book".
 
-You are asked to supply an App Namespace. You use the App Namespace to define custom Open Graph actions and as part of the application's Facebook URL (http://apps.facebook.com/{App_Namespace}). Make sure the App Namespace is longer than 7 characters, contains no capital letters, and is unique among all applications on Facebook.
+You are asked to supply an App Namespace. You use the App Namespace to define custom Open Graph actions and as part of the application's Facebook URL (http://apps.facebook.com/{App_Namespace}). Make sure the App Namespace is longer than 7 characters, contains no capital letters, and is unique among all applications on Facebook. Although it's not required, it's also probably a good idea to provide a namespace that is similar to the name you gave to your application.
 
 Optionally, you can have Facebook automatically arrange hosting for your application at Heroku.
 
