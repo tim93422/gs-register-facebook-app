@@ -1,3 +1,4 @@
+<#assign project_id="gs-register-facebook-app">
 
 Getting Started: Registering an Application with Facebook
 ========================================================
@@ -70,13 +71,13 @@ One way you can use your newly registered application's App ID and App Secret is
 Clone the utility project from GitHub:
 
 ```sh
-$ git clone https://github.com/springframework-meta/gs-register-facebook-app.git
+$ git clone https://github.com/springframework-meta/${project_id}.git
 ```
 
 Run the utility from the command line:
 
 ```sh
-$ mvn package && java -jar target/gs-register-facebook-app-0.1.0.jar
+$ mvn package && java -jar target/${project_id}-0.1.0.jar
 ```
 
 A dialog prompts you for the application's App ID, followed by a dialog that asks for the App Secret. Copy and paste them from the Facebook Developer's site.
