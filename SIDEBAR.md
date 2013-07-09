@@ -1,6 +1,6 @@
 ### Related Resources
 
-Registring your Facebook application is just the first step in creating a social application. You may want to continue your exploration of Spring and REST with the following
+Registering your Facebook application is just the first step in creating a social application. You may want to continue your exploration of Spring and social API integration with the following
 
 ### Getting Started Guides
 
