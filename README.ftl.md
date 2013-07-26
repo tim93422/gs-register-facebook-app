@@ -1,7 +1,5 @@
 <#assign project_id="gs-register-facebook-app">
 
-Getting Started: Registering an Application with Facebook
-========================================================
 This guide walks you through the steps of registering an application to integrate with Facebook.
 
 You perform these steps in your web browser on Facebook.com. Although you won't be writing code in these steps, you can use a simple utility project to verify that you performed them correctly. Instructions for getting and running the utility are at the end of this guide.
