@@ -75,7 +75,7 @@ $ git clone https://github.com/springframework-meta/${project_id}.git
 Run the utility from the command line:
 
 ```sh
-$ mvn package && java -jar target/${project_id}-0.1.0.jar
+$ mvn package spring-boot:run
 ```
 
 A dialog prompts you for the application's App ID, followed by a dialog that asks for the App Secret. Copy and paste them from the Facebook Developer's site.
