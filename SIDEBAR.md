@@ -9,10 +9,10 @@ Registering your Facebook application is just the first step in creating a socia
 * [Registering an Application with Twitter][gs-register-twitter-app]
 * [Consuming RESTful Web Services][gs-consuming-rest]
 
-[gs-accessing-facebook]: /guides/gs/accessing-facebook/content
-[gs-accessing-twitter]: /guides/gs/accessing-twitter/content
-[gs-register-twitter-app]: /guides/gs/register-twitter-app/content
-[gs-consuming-rest]: /guides/gs/consuming-rest/content
+[gs-accessing-facebook]: /guides/gs/accessing-facebook/
+[gs-accessing-twitter]: /guides/gs/accessing-twitter/
+[gs-register-twitter-app]: /guides/gs/register-twitter-app/
+[gs-consuming-rest]: /guides/gs/consuming-rest/
 
 ### Tutorials
 
