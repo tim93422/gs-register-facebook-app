@@ -25,5 +25,5 @@ Registering your Facebook application is just the first step in creating a socia
 * [REST][u-rest]
 * [JSON][u-json]
 
-[u-rest]: /understanding/rest
-[u-json]: /understanding/json
+[u-rest]: /understanding/REST
+[u-json]: /understanding/JSON
