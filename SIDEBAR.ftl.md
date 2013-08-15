@@ -2,7 +2,7 @@
 
 Registering your Facebook application is just the first step in creating a social application. You may want to continue your exploration of Spring and social API integration with the following
 
-### Getting Started Guides
+### Getting Started guides
 
 * [Accessing Facebook Data][gs-accessing-facebook]
 * [Accessing Twitter Data][gs-accessing-twitter]
@@ -20,7 +20,7 @@ Registering your Facebook application is just the first step in creating a socia
 
 [tut-rest]: /guides/tutorials/rest
 
-### Understanding
+### Concepts and technologies
 
 * [REST][u-rest]
 * [JSON][u-json]
