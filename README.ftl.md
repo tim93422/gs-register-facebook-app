@@ -72,11 +72,7 @@ Clone the utility project from GitHub:
 $ git clone https://github.com/springframework-meta/${project_id}.git
 ```
 
-Run the utility from the command line:
-
-```sh
-$ mvn package spring-boot:run
-```
+<@run_the_utility/>
 
 A dialog prompts you for the application's App ID, followed by a dialog that asks for the App Secret. Copy and paste them from the Facebook Developer's site.
 
