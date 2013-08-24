@@ -68,7 +68,7 @@ One way you can use your newly registered application's App ID and App Secret is
 Clone the utility project from GitHub:
 
 ```sh
-$ git clone https://github.com/springframework-meta/gs-register-facebook-app.git
+$ git clone https://github.com/spring-guides/gs-register-facebook-app.git
 ```
 
 To run the utility, simply run it from the command line using [Gradle][gs-gradle] like this:

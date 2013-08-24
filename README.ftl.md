@@ -69,7 +69,7 @@ One way you can use your newly registered application's App ID and App Secret is
 Clone the utility project from GitHub:
 
 ```sh
-$ git clone https://github.com/springframework-meta/${project_id}.git
+$ git clone https://github.com/spring-guides/${project_id}.git
 ```
 
 <@run_the_utility/>
