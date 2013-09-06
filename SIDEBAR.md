@@ -17,8 +17,10 @@ Registering your Facebook application is just the first step in creating a socia
 ### Tutorials
 
 * [Designing and Implementing RESTful Web Services with Spring][tut-rest]
+* [Designing and Implementing a Web Site with Spring][tut-web]
 
 [tut-rest]: /guides/tutorials/rest
+[tut-web]: /guides/tutorials/web
 
 ### Concepts and technologies
 
