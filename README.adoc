@@ -77,7 +77,7 @@ Clone the utility project from GitHub:
 $ git clone https://github.com/spring-guides/{project_id}.git
 ----
 
-include::https://raw.github.com/spring-guides/getting-started-macros/master//run_the_utility.adoc[]
+include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master//run_the_utility.adoc[]
 
 A dialog prompts you for the application's App ID, followed by a dialog that asks for the App Secret. Copy and paste them from the Facebook Developer's site.
 
